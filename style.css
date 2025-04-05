@@ -1,0 +1,9 @@
+img { 
+    height: 200px; 
+    background-color: #f0f0f0;
+    opacity: 0;
+    transition: 1s ease-in-out;
+  }
+  img.visible {
+    opacity: 1;
+  }
